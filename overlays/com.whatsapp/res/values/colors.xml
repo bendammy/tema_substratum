@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="primary">#00BCD4</color>
+    <color name="primary_dark">#0097A7</color>
+	 <color name="album_progress_determinate">#01579B</color>
+	  <color name="call_answer">#01579B</color>
+	    <color name="unread_indicator">#01579B</color>
+		<color name="composing">#01579B</color>
+		 <color name="voice_note_scrubber_green">#01579B</color>
+		 <color name="media_message_progress_determinate">#01579B</color> 
+</resources>
